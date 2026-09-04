@@ -13,6 +13,13 @@ I am a Systems Analysis and Development student with a strong interest in Inform
   <a href="https://github.com/Fergutzc">
     <img src="https://img.shields.io/badge/GitHub-Fergutzc-181717?style=for-the-badge&logo=github" />
   </a>
+   <a href="https://www.linkedin.com/in/cr%C3%ADsthian-ferg%C3%BCtz-fabian-8599bb257/">
+    <img src="https://img.shields.io/badge/LinkedIn-Cristhian%20Fergutz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/fergutzc.v1">
+    <img src="https://img.shields.io/badge/TryHackMe-fergutzc-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" />
+  </a>
+</p>
 
 ### Tools
 
