@@ -7,7 +7,7 @@ I am a Systems Analysis and Development student with a strong interest in Inform
 
 ---
 
-## 🌐 Where to find me
+## Where to find me
 
 <p align="left">
   <a href="https://github.com/Fergutzc">
@@ -31,7 +31,7 @@ I am a Systems Analysis and Development student with a strong interest in Inform
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
 ## GitHub Stats
-## 📊 GitHub Stats
+
 <p align="left">
   <img height="170" src="https://github-stats-extended.vercel.app/api?username=fergutzc&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fergutzc&layout=compact&theme=tokyonight" />
